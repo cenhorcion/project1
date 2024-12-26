@@ -7,15 +7,16 @@ https://blog.csdn.net/qq_42106610/article/details/137725785?fromshare=blogdetail
 
 登录主界面功能：
 
-![image](https://github.com/user-attachments/assets/066cba9c-b51b-4f18-95d2-8062291fe427)
+![image](https://github.com/user-attachments/assets/d0019742-d926-42fc-83b3-37a22ec5fc5a)
+
 
 管理员功能：
 
-![image](https://github.com/user-attachments/assets/ca1abea6-6386-4cc3-8827-81222f94a45f)
+![image](https://github.com/user-attachments/assets/6a5ee7b8-0653-47aa-b07c-b17c1217be12)
 
 用户功能：
 
-![image](https://github.com/user-attachments/assets/88f49fd7-457a-4349-ae21-eb108eb5f3c0)
+![image](https://github.com/user-attachments/assets/da658ff8-726e-4ca4-abaf-23e9eb01f95b)
 
 一些功能的页面展示：
 
